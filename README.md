@@ -1,7 +1,7 @@
-#Gradescope.py
+# Gradescope.py
 This program is a revised compilation of scripts originally created by Arindaam Roy. It creates a directory with files of all student submissions, checks for potential plagiarism, checks code for illegal imports, and uploads submissions to Gradescope. 
 
-#Discord Bot (bot.py) Documentation
+# Discord Bot (bot.py) Documentation
 **Overview**
 The bot is designed to facilitate interaction between students and tutors in a learning community hosted on a Discord server. The bot manages channels for asking questions, answering them, and registering for tutoring sessions. It ensures the proper flow of interaction, keeping the server organized and efficient.
 
