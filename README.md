@@ -3,7 +3,7 @@ This program is a revised compilation of scripts originally created by Arindaam 
 
 # Discord Bot (bot.py) Documentation
 **Overview**
-The bot is designed to facilitate interaction between students and tutors in a learning community hosted on a Discord server. The bot manages channels for asking questions, answering them, and registering for tutoring sessions. It ensures the proper flow of interaction, keeping the server organized and efficient.
+The bot is designed to facilitate interaction between students and tutors in a learning community hosted on a Discord server. The bot manages channels for asking questions, answering them, and registering for tutoring sessions. It ensures the proper flow of interaction, keeping the server organized and efficient. This bot was originally designed by Jon Potter.
 
 **Initialization**
 The bot is initialized with a token, which is not provided in the code for security reasons.
